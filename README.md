@@ -8,7 +8,7 @@
 <li>XML & JSON</li>
   <li>Sub-Resource </li>
   <li>XML ve JSON </li>
-  <li>HParameter </li>
+  <li>Parameter </li>
 </ul>
 
 
